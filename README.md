@@ -8,3 +8,5 @@ My next steps:
 1. Learn C++
 2. Improve my English
 3. Learn Japanese
+
+I'm doing this like a hobby.

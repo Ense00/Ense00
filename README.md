@@ -10,3 +10,5 @@ My next steps:
 3. Learn Japanese
 
 I'm doing this like a hobby.
+
+I create a blog to record my progress :)

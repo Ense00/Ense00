@@ -2,13 +2,12 @@ Hello, i’m @Ense00
 
 I'm new.
 
-I'm actually learning about Git, GitHub and VScode.
+I'm actually learning about Git, GitHub and Visual Studio
 
 My next steps:
 1. Learn C++
-2. Improve my English
-3. Learn Japanese
+2. Learn C#
+4. Improve my English
+5. Learn Japanese
 
 I'm doing this like a hobby.
-
-I create a blog to record my progress :)
